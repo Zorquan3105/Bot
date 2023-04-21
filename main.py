@@ -9,7 +9,7 @@ gold=0
 stamin=10
 
 
-TOKEN='6173189808:AAG3zeIB4nu-2fhoyQcNYMOE-5jOWCaTxcw'
+TOKEN=''
 Bot=telebot.TeleBot(TOKEN)
 
 @Bot.message_handler(commands=['info'])
